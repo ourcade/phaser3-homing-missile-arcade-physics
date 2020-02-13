@@ -2750,4 +2750,4 @@ var e=arguments[3];require("./polyfills");var r=require("./const"),i=require("./
 },{"phaser":"g7IM","./Missile":"tBNZ"}],"epB2":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=r(require("phaser")),t=r(require("./scenes/MissileDemo"));function r(e){return e&&e.__esModule?e:{default:e}}var a={type:e.default.AUTO,width:800,height:600,physics:{default:"arcade",arcade:{gravity:{y:0},debug:!0}},scene:[t.default]},u=new e.default.Game(a);exports.default=u;
 },{"phaser":"g7IM","./scenes/MissileDemo":"Kb2H"}]},{},["epB2"], null)
-//# sourceMappingURL=/phaser3-typescript-spine/main.cee2fa1a.js.map
+//# sourceMappingURL=/phaser3-homing-missile-arcade-physics/main.cee2fa1a.js.map
