@@ -3,6 +3,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Demo
+
+https://ourcade.github.io/phaser3-homing-missile-arcade-physics/
+
 ## Prerequisites
 
 This example project uses the [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template) and requires [Parcel](https://parceljs.org/).
