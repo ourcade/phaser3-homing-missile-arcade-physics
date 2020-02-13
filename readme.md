@@ -1,4 +1,4 @@
-# Phaser3 Homing Missing with Arcade Physics
+# Phaser 3 Homing Missing with Arcade Physics
 > Target seeking missile for Arcade Physics when you can't or don't want to use Matter
 
 ![License](https://img.shields.io/badge/license-MIT-green)
