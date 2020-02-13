@@ -5,7 +5,7 @@
 	"scripts": {
 		"start": "parcel src/index.html -p 8000",
 		"build": "parcel build src/index.html --out-dir dist",
-		"build-gh": "parcel build src/index.html --out-dir dist --public-url /phaser3-typescript-spine/",
+		"build-gh": "parcel build src/index.html --out-dir dist --public-url /phaser3-homing-missile-arcade-physics/",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "supertommy",
